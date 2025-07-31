@@ -30,6 +30,6 @@ NotaExamen : 10
                 }
 ]
 for (let indice = 0; indice < estudiantes.length; indice++) {
-    const element = estudiantes[indice].estudiantes.nombre +' te sacaste un ' + estudiantes.NotaExamen;
+    console.log = estudiantes[indice].estudiantes.nombre +' te sacaste un ' + estudiantes.NotaExamen;
     
 }
