@@ -8,7 +8,7 @@ for (let i = 0; i < edades.length; i++) {
    console.log("El promedio es", promedio) 
 }
 
-let i = 0;
+
 
 //2
 let i = 0
